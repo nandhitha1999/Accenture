@@ -1,6 +1,6 @@
 # PHASE 2 - User Journey Redesign
 
-how to use data to develop insights and make smart, considered recommendations.'Data Driven Consulting' is a key way of thinking, and is a skill that will help you to navigate and prioritise our clients’ customers’ needs ahead of our clients.
+Use data to develop insights and make smart, considered recommendations.'Data Driven Consulting' is a key way of thinking, and is a skill that will help you to navigate and prioritise our clients’ customers’ needs ahead of our clients.
 
 ### 3. Develop insights
 
