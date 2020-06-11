@@ -2,7 +2,7 @@
 
 Interpreting the intent behind a question, and analysing incomplete data in a way that enables to provide a satisfactory answer to the client.
 
-**3. Outcome Analysis**
+### 3. Outcome Analysis
 Quentions queried by the client:
 
 - **Q1:** Since the most recent changes went live on June 7th, how many students have logged into the site?
